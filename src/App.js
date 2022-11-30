@@ -125,7 +125,7 @@ function App() {
             <div className="col-md-6">
               <div className="img-sec">
                 <div className="img-wrap">
-                  <img src="assets/img/download.jpg" className="img-fluid wow  fadeInUp slow animated" alt="" style={{ visibility: "visible", animationName: "fadeInUp" }} />
+                  <img src="assets/img/1af568c3-6d4e-44f3-b461-4d8ba254b6e7.jpg" className="img-fluid wow  fadeInUp slow animated" alt="" style={{ visibility: "visible", animationName: "fadeInUp" }} />
                 </div>
               </div>
             </div>
