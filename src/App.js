@@ -42,6 +42,45 @@ function App() {
           </div>
         </div>
       </section>
+      <section id="service" className="section-padding sss" >
+        <div className="container">
+          <div className="row">
+            <div className="col-md-4 col-sm-4">
+              <div className="service-info">
+                <div className="icon text-white1">
+                  <i className="fa fa-search text-white1"></i>
+                </div>
+                <div className="icon-info">
+                  <h4 className="text-white1">Search</h4>
+                  <p className="text-white1">Are you looking to play after work, organize your Sunday Five's football match? Explore the largest network of sports facilities whole over the India.</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4 col-sm-4">
+              <div className="service-info">
+                <div className="icon text-white1">
+                  <i className="fa fa-address-book-o "></i>
+                </div>
+                <div className="icon-info">
+                  <h4 className="text-white1">Book</h4>
+                  <p className="text-white1">Once you’ve found the perfect ground, court or gym, Connect with the venue through the Book Now Button to make online booking & secure easier payment.</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4 col-sm-4">
+              <div className="service-info">
+                <div className="icon text-white1">
+                  <i className="fa fa-futbol-o"></i>
+                </div>
+                <div className="icon-info">
+                  <h4 className="text-white1">Play</h4>
+                  <p className="text-white1">You’re the hero, you’ve found a stunning turf or court, booked with ease and now its time to play. The scene is set for your epic match.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <section id="about" className="section-padding about">
         <div className="container">
           <div className="row">
@@ -93,45 +132,7 @@ function App() {
           </div>
         </div>
       </section>
-      <section id="service" className="section-padding sss" >
-        <div className="container">
-          <div className="row">
-            <div className="col-md-4 col-sm-4">
-              <div className="service-info">
-                <div className="icon text-white1">
-                  <i className="fa fa-search text-white1"></i>
-                </div>
-                <div className="icon-info">
-                  <h4 className="text-white1">Search</h4>
-                  <p className="text-white1">Are you looking to play after work, organize your Sunday Five's football match? Explore the largest network of sports facilities whole over the India.</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4 col-sm-4">
-              <div className="service-info">
-                <div className="icon text-white1">
-                  <i className="fa fa-address-book-o "></i>
-                </div>
-                <div className="icon-info">
-                  <h4 className="text-white1">Book</h4>
-                  <p className="text-white1">Once you’ve found the perfect ground, court or gym, Connect with the venue through the Book Now Button to make online booking & secure easier payment.</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4 col-sm-4">
-              <div className="service-info">
-                <div className="icon text-white1">
-                  <i className="fa fa-futbol-o"></i>
-                </div>
-                <div className="icon-info">
-                  <h4 className="text-white1">Play</h4>
-                  <p className="text-white1">You’re the hero, you’ve found a stunning turf or court, booked with ease and now its time to play. The scene is set for your epic match.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
       {/* <!--cta-->
       <!--contact--> */}
       <section id="contact" className="section-padding">
