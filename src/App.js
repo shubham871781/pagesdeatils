@@ -13,7 +13,7 @@ function App() {
                     <span className="icon-bar"></span>
                     <span className="icon-bar"></span>
                   </button>
-                  {/* <a className="navbar-brand" href="#banner"><img src="assets/img/Updated_logo@2x.png" className="img-responsive logoimge" alt="" /></a> */}
+                  <a className="navbar-brand" href="#banner"><img src="assets/img/Updated_logo@2x.png" className="img-responsive logoimge" alt="" /></a>
                 </div>
                 <div className="collapse navbar-collapse navbar-right" id="myNavbar">
                   <ul className="nav navbar-nav">
